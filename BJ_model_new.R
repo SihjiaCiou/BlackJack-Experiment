@@ -1,4 +1,3 @@
-setwd("C:/Users/PigQQ/Documents/變異數分析")
 bj_data = read.csv("~/變異數分析/blackjack_data.csv")
 
 attach(bj_data)
